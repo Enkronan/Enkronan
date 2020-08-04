@@ -3,7 +3,7 @@
 I'm a developer, lawyer and manager. I'm passionate about understanding computer science, law and business in order to create products that help those who would rather spend their time on other things. 
 
 - 🌱 I’m currently learning the node ecosystem as well as how to create stable web scraping factories in python
-- 💬 Ask me about Python, tech & Law, writing Business Cases, designing web apps
+- 💬 Ask me about Python, tech & Law, writing business cases, designing web apps
 - 📫 How to reach me: robin@tempura.se
 
 <!--
